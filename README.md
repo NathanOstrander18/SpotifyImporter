@@ -1,4 +1,4 @@
-.# SpotifyImporter
+# SpotifyImporter
 Imports mp3 files into spotify
 
 Around 2014 I got a new laptop, switched over to spotify and completely forgot about all of the music I collected over years. As my spotify library grew I noticed it was missing some needed nostalgia. I tried importing all of my old music into spotify but all of the song names were grayed out. Was having trouble resolving this within the App so I thought it would be a good chance to mess around with their API.
